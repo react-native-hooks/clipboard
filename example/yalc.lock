@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@rnhooks/clipboard": {
+      "signature": "b973f9801ee6e292e6a74c65fbe3deee",
+      "file": true
+    }
+  }
+}
